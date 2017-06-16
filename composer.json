@@ -1,0 +1,23 @@
+{
+    "name"       : "netforcews/i18n",
+    "description": "The NetForce Internationalization.",
+    "keywords"   : ["system", "netforce", "internationalization", "i18n"],
+    "license"    : "GPL v.3",
+    "homepage"   : "http://netforce.com.br",
+
+    "authors": [
+        {
+            "name" : "Bruno Gonçalves",
+            "email": "bugotech@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "NetForce\\i18n\\": "/"
+        }
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable"    : true
+}
