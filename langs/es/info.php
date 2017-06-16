@@ -1,14 +1,14 @@
 <?php
 
 return [
-    'name' => 'Spanish',
-    'lang' => 'es',
-    'flag' => 'esp',
+    "name" => "Spanish",
+    "lang" => "es",
+    "flag" => "esp",
 
-    'translators' => [
+    "translators" => [
         [
-            'name' => 'Bruno Gonçalves',
-            'email' => 'bugotech@gmail.com',
+            "name" => "Bruno Gonçalves",
+            "email" => "bugotech@gmail.com",
         ],
     ],
 ];

@@ -1,22 +1,22 @@
 <?php
 
 return [
-    'name' => 'Portuguese (Brazil)',
-    'lang' => 'pt-BR',
-    'flag' => 'bra',
+    "name" => "Portuguese (Brazil)",
+    "lang" => "pt-BR",
+    "flag" => "bra",
 
-    'translators' => [
+    "translators" => [
         [
-            'name' => 'Bruno Gonçalves',
-            'email' => 'bugotech@gmail.com',
+            "name" => "Bruno Gonçalves",
+            "email" => "bugotech@gmail.com",
         ],
     ],
 
-    'date' => [
+    "date" => [
 
     ],
 
-    'number' => [
+    "number" => [
 
     ],
 ];
