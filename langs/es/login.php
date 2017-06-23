@@ -4,6 +4,6 @@ return [
     'welcome' => 'Iniciar sesión',
     'email' => 'E-mail',
     'password' => 'Contraseña',
-    'enter' => 'Enter',
+    'enter' => 'Entrar',
     'remember' => 'Recordar mi contraseña',
 ];
