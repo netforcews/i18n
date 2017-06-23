@@ -5,5 +5,5 @@ return [
     'email' => 'E-mail',
     'password' => 'Senha',
     'enter' => 'Entrar',
-    'remember' => 'Esqueci a minha senha',
+    'remember' => 'Esqueceu sua senha?',
 ];
