@@ -20,7 +20,7 @@ return [
     ],
 
     'reset' => [
-        'title' => 'Trocar a senha',
+        'title' => 'Trocar senha',
         'subtitle' => 'Troque sua senha',
         'message' => 'Escolha uma senha segura e não reutilize em outras contas.',
         'new' => 'Nova senha',
