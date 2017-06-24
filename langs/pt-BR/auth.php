@@ -18,4 +18,14 @@ return [
         'enter' => 'Enviar',
         'back' => 'Voltar ao login',
     ],
+
+    'reset' => [
+        'title' => 'Trocar a senha',
+        'subtitle' => 'Troque sua senha',
+        'message' => 'Escolha uma senha segura e não reutilize em outras contas.',
+        'new' => 'Nova senha',
+        'confirm' => 'Repita a senha',
+        'enter' => 'Trocar senha',
+        'back' => 'Voltar ao login',
+    ],
 ];
