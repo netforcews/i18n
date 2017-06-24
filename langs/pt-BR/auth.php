@@ -2,7 +2,8 @@
 
 return [
     'login' => [
-        'welcome' => 'Faça o seu login',
+        'title' => 'Identifique-se',
+        'subtitle' => 'Faça o seu login',
         'email' => 'E-mail',
         'password' => 'Senha',
         'enter' => 'Entrar',
@@ -10,7 +11,8 @@ return [
     ],
 
     'remember' => [
-        'welcome' => 'Redefina sua senha',
+        'title' => 'Redefina sua senha',
+        'subtitle' => 'Redefina sua senha',
         'message' => 'Digite seu endereço de e-mail e nós lhe enviaremos instruções para redefinir a sua senha.',
         'hint' => 'Digite seu e-mail',
         'enter' => 'Enviar',
