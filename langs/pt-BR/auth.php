@@ -30,5 +30,15 @@ return [
         'confirm' => 'Repita a senha',
         'enter' => 'Trocar senha',
         'back' => 'Voltar ao login',
+        'messages' => [
+            'pass-changed' => 'Senha alterada com sucesso.',
+        ],
+    ],
+
+    'errors' => [
+        'login' => 'Usuário ou senha incorreta',
+        'user-notfound' => 'Usuário não encontrado',
+        'user-disabled' => 'Usuário sem permissão para acessar o sistema',
+        'no-change-pass' => 'Sem permissão para trocar a senha',
     ],
 ];
