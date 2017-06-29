@@ -17,6 +17,9 @@ return [
         'hint' => 'Digite seu e-mail',
         'enter' => 'Enviar',
         'back' => 'Voltar ao login',
+        'messages' => [
+            'sendmail' => 'Foi enviado para você um e-mail com instruções para trocar a sua senha.',
+        ],
     ],
 
     'reset' => [
