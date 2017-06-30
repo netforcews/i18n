@@ -40,5 +40,6 @@ return [
         'user-notfound' => 'Usuário não encontrado',
         'user-disabled' => 'Usuário sem permissão para acessar o sistema',
         'no-change-pass' => 'Sem permissão para trocar a senha',
+        'no-email-template' => 'Modelo de e-mail password não foi implementado',
     ],
 ];
