@@ -2,7 +2,7 @@
 
 return [
     'change-pass' => 'Alterar senha',
-    'exit' => 'Sair',
+    'logout' => 'Sair',
 
     'login' => [
         'title' => 'Identifique-se',
