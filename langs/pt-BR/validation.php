@@ -99,4 +99,14 @@ return array(
         'attributes' => 'Error ao validar campos',
     ],
 
+    /*
+    |--------------------------------------------------------------------------
+    | Validacoes da NetForce
+    |--------------------------------------------------------------------------
+    */
+    "id"         => "O :attribute deve ser um ID (Ex.: ABC999...).",
+    "domain"     => "O :attribute esta inválido.",
+    "route"      => "O :attribute não é uma rota válida.",
+    "dbname"     => "O :attribute não é uma dbname válido.",
+    "checkpass"  => "A :attribute não confere.",
 );
