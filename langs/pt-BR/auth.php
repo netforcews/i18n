@@ -38,6 +38,16 @@ return [
         ],
     ],
 
+    'changepass' => [
+        'title' => 'Trocar senha',
+        'subtitle' => 'Troque sua senha',
+        'message' => 'Chegou na hora de trocar a sua senha, por questões de segurança é necessário que você crie uma nova.',
+        'atual' => 'Senha atual',
+        'new' => 'Nova senha',
+        'confirm' => 'Repita a nova senha',
+        'enter' => 'Trocar senha',
+    ],
+
     'errors' => [
         'login' => 'Usuário ou senha incorreta',
         'user-notfound' => 'Usuário não encontrado',
