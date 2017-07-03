@@ -1,6 +1,9 @@
 <?php
 
 return [
+    'change-pass' => 'Alterar senha',
+    'exit' => 'Sair',
+
     'login' => [
         'title' => 'Identifique-se',
         'subtitle' => 'Faça o seu login',
